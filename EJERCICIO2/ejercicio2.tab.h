@@ -76,7 +76,7 @@ extern int yydebug;
 #if ! defined YYSTYPE && ! defined YYSTYPE_IS_DECLARED
 union YYSTYPE
 {
-#line 7 "ejercicio1.y"
+#line 7 "ejercicio2.y"
 
   struct ast *a;
   double d;
@@ -84,7 +84,7 @@ union YYSTYPE
   struct symlist *sl;
   int fn;
 
-#line 88 "ejercicio1.tab.h"
+#line 88 "ejercicio2.tab.h"
 
 };
 typedef union YYSTYPE YYSTYPE;
