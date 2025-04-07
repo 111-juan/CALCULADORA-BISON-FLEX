@@ -1,7 +1,7 @@
 %{
 #  include <stdio.h>
 #  include <stdlib.h>
-#  include "ejercicio1.h"
+#  include "ejercicio2.h"
 %}
 
 %union {
