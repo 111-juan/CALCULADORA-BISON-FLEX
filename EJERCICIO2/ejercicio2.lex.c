@@ -1,6 +1,6 @@
-#line 2 "ejercicio1.lex.c"
+#line 2 "ejercicio2.lex.c"
 
-#line 4 "ejercicio1.lex.c"
+#line 4 "ejercicio2.lex.c"
 
 #define  YY_INT_ALIGNED short int
 
