@@ -6,7 +6,7 @@
 #  include <stdarg.h>
 #  include <string.h>
 #  include <math.h>
-#  include "ejercicio1.h"
+#  include "ejercicio2.h"
 
 struct symbol symtab[NHASH];
 
