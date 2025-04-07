@@ -2,8 +2,8 @@
 
 %option noyywrap nodefault yylineno
 %{
-# include "ejercicio1.h"
-# include "ejercicio1.tab.h"
+# include "ejercicio2.h"
+# include "ejercicio2.tab.h"
 %}
 
 /* float exponent */
