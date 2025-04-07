@@ -67,13 +67,13 @@
 
 
 /* First part of user prologue.  */
-#line 1 "ejercicio1.y"
+#line 1 "ejercicio2.y"
 
 #  include <stdio.h>
 #  include <stdlib.h>
-#  include "ejercicio1.h"
+#  include "ejercicio2.h"
 
-#line 77 "ejercicio1.tab.c"
+#line 77 "ejercicio2.tab.c"
 
 # ifndef YY_CAST
 #  ifdef __cplusplus
@@ -96,7 +96,7 @@
 #  endif
 # endif
 
-#include "ejercicio1.tab.h"
+#include "ejercicio2.tab.h"
 /* Symbol kind.  */
 enum yysymbol_kind_t
 {
